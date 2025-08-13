@@ -114,7 +114,7 @@ The script will output performance tables and plots. The results should closely 
 The script will generate plots visualizing the model's predictions against the actual stock prices.
 
 **CNN-LSTM Prediction for TSLA:**
-![CNN-LSTM fit for TSLA stock](https://i.imgur.com/8E5gY3C.png)
+![CNN-LSTM fit for TSLA stock](https://github.com/alexaryan7/Comparative-Study-of-Machine-Learning-Models-for-Stock-Price-Prediction/blob/main/CNN-LSTM%20on%20TSLA.png)
 
 **Bidirectional LSTM Prediction for MSFT:**
 ![Bidirectional LSTM fit for MSFT stock](https://i.imgur.com/Y6fH7vO.png)
